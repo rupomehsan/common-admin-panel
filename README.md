@@ -1,1 +1,1 @@
-# universal-admin-panel
+# common-admin-panel
